@@ -2,6 +2,7 @@
 # Eric  Cramer <cramerericm@gmail.com>
 
 import datetime
+from wrestler import wrestler
 
 class match:
 	""" Definition for a match between two wrestlers """

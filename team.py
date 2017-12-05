@@ -1,6 +1,9 @@
 # Class file for a team object
 # Eric  Cramer <cramerericm@gmail.com>
 
+import datetime
+from wrestler import wrestler
+
 class team:
 	""" Class definition for a team object """
 
